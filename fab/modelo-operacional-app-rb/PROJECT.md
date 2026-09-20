@@ -25,6 +25,8 @@ O arquivo original permanece imutável no Google Drive.
 
 A cópia de trabalho foi recriada em 2026-09-19 após descarte de uma primeira cópia em que foram feitas alterações operacionais fora do escopo. A nova cópia volta ao conteúdo do original e preserva os comentários de Nelson.
 
+**Google Docs de trabalho:** https://docs.google.com/document/d/1iY-kb0QL05xbWnpBrSX-BP1vUReuTq8_JomUggu6DG8/edit
+
 ## Regra de evidência
 
 O Modelo APP-RB 2025/02 **não é referência normativa nem de formatação**. Ele contém erros e não pode ser usado para aceitar ou rejeitar comentários.
