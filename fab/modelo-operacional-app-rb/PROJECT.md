@@ -48,3 +48,19 @@ A revisão formal só termina quando:
 - houver documento separado de notas explicativas;
 - o Google Docs exportar para PDF sem perda material de formatação;
 - o PDF final tiver sido inspecionado página a página.
+
+
+## Atualização 2026-09-20 — materialização no Google Docs
+
+A revisão deixou de ser apenas preparatória e foi aplicada diretamente à cópia de trabalho.
+
+Aplicações formais já realizadas:
+- página A4;
+- margens de 3 cm (superior/esquerda) e 2 cm (inferior/direita);
+- fonte de texto Calibri 12;
+- hierarquia tipográfica aplicada aos títulos numerados conforme NSCA 5-3;
+- capa ajustada segundo o modelo do Anexo E da CIRCEA 100-57, compatibilizado com a família tipográfica da NSCA 5-3;
+- inícios de alíneas/subalíneas alterados indevidamente para maiúscula por Nelson revertidos para minúscula;
+- título 8.4 restabelecido para a forma prescrita na CIRCEA 100-57: “DOS SISTEMAS DE VIGILÂNCIA (RADAR, CONSOLE, ADS ETC.)”.
+
+Os 256 comentários de Nelson receberam resposta diretamente no Google Docs e permanecem abertos para inspeção do usuário.
