@@ -23,3 +23,9 @@ A primeira cópia de trabalho foi descartada e recriada a partir do original por
 
 ## D008 — Memorandos antigos não serão removidos sem substituição fundamentada
 Referências a memorandos de 2016/2018 ou outros atos não serão eliminadas apenas por parecerem antigas. Só serão substituídas/removidas se houver base atual suficientemente forte ou comentário específico que justifique a revisão.
+
+
+## D009 — Alíneas e subalíneas começam por minúscula
+A NSCA 5-3/2026, art. 57, VI, determina que a matéria das alíneas e subalíneas começa por letra minúscula. Alterações de Nelson que elevaram a primeira letra desses elementos para maiúscula devem ser desfeitas, salvo se o caractere integrar sigla/nome próprio que exija maiúscula.
+
+Aplicação iniciada na cópia limpa, restrita à capitalização formal; não altera o conteúdo operacional.
