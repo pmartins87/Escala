@@ -21,3 +21,14 @@ Critérios vigentes em outubro/2026:
 - A versão redistribuída deve partir da escala original, preservar a cobertura diária e minimizar alterações compatíveis com os critérios acima.
 
 Os arquivos em `snapshots/` são exportações para preservação histórica. Os links nativos do Google Sheets ficam registrados em `docs/versoes.md`.
+
+
+---
+
+## Transição do repositório para FAB
+
+A partir de 2026-09-19, este repositório também será usado como fonte de rastreabilidade de trabalhos relativos à Força Aérea Brasileira e deverá ser renomeado futuramente para **FAB / Força Aérea Brasileira**.
+
+O projeto de revisão do Modelo Operacional APP-RB 2026-01 está documentado em `fab/modelo-operacional-app-rb/`.
+
+> Observação de segurança: o repositório está atualmente público. Por isso, documentos de rastreabilidade aqui registrados devem evitar dados operacionais sensíveis, telefones, contingências detalhadas ou outros conteúdos que não devam ser publicados externamente. Esses conteúdos permanecem no Google Drive/documentos de trabalho enquanto o repositório não for tornado privado.
